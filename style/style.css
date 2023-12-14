@@ -1,0 +1,188 @@
+body {
+    background-color: sandybrown;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar a {
+    background-color: black;
+}
+
+.navbar{
+    max-width: 1350px;
+    position: absolute;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.navbar-link:hover{
+    text-decoration: underline;
+}
+
+nav{
+    margin: auto;
+}
+
+.navbar-menu{
+    margin: 20px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    background-color: black;
+}
+
+.navbar-item{
+    margin-left: 125px;
+    margin-right: 85px;
+    background-color: black;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+    background-color: black;
+}
+
+header{
+    background-color: black;
+}
+
+
+.green {
+    color: lime;
+    text-decoration: none;
+    background-color: white;
+}
+
+h2 {
+    font-size: 38px;
+    width: 65%;
+    color: rgb(163, 108, 18);
+    text-decoration: none;
+    background-color: white;
+}
+
+.text {
+    text-align: left;
+    max-width: 70%;
+    background-color: white;
+    font-size: 17px;
+}
+
+
+main {
+    position: absolute;
+    text-align: center;
+    margin-left: 250px;
+    background-color: white;
+    width: 1350px;
+    padding: 20px;
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
+}
+
+p {
+    background-color: white;
+}
+
+
+img {
+    width: 100%;
+    margin-top: 75px ;
+}
+
+footer {
+    background-color: darkolivegreen;
+    opacity: 85%;
+    margin-top: 130px ;
+}
+
+.foot {
+    text-decoration: none;
+    background-color: darkolivegreen;
+    color: greenyellow;
+    opacity: 70%;
+}
+
+.down {
+    margin-left: 400px;
+    color: white;
+    font-size: 40px;
+}
+
+.right {
+    position: absolute;
+    display: flex;
+    padding: 20px;
+    text-align: right;
+    margin-top: 420px;
+    margin-left: 1340px;
+    background: none;
+}
+
+
+main a {
+    width: 120%;
+    height: 120%;
+    color: rgb(141, 92, 49);
+    text-decoration: none;
+    background-color: white;
+}
+
+tbody {
+    text-align: left;
+    background-color: rgb(216, 215, 215);
+}
+
+thead {
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 260px;
+}
+
+table a {
+    color: black;
+    text-decoration: none;
+}
+
+.green1 {
+    color: rgb(60, 179, 60)
+}
+
+td {
+    padding: 6px;
+    border: 6px solid rgb(222, 222, 222);
+    border-right: 10px solid rgb(222, 222, 222);
+    border-left: 10px solid rgb(222, 222, 222);
+}
+
+th {
+    line-height: 2.5;
+    background-color: rgb(32, 189, 189);
+    font-size: 15px;
+    text-align: left;
+    border: 6px solid rgb(222, 222, 222);
+    border-right: 10px solid rgb(222, 222, 222);
+    border-left: 10px solid rgb(222, 222, 222);
+}
+
+.table1 {
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 1360px;
+    text-align: center;
+}
+
+.table2 {
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 1360px;
+    text-align: center;
+}
+
